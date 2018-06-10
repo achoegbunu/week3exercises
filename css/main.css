@@ -1,0 +1,60 @@
+nav {
+	text-align: center;
+	background-color: grey;
+	padding: 25px 0;
+}
+
+nav ul li {
+	display: inline-block;
+	background-color: yellow;
+	padding: 10px 20px;
+	margin: 5px 10px
+	transition: 0.5s ease;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+nav ul li a {
+	transition: 0.5s ease;
+}
+
+
+nav ul li:hover {
+	background-color: purple;
+	border: 2px
+
+
+}
+
+button {
+	background-color: orange;
+	transition: 0.5s ease;
+	padding: 20px 0;
+	margin: 10px;
+	border-radius: 10px;
+	color: green;
+	border: none;
+}
+
+button :hover {
+	background-color: #0c0000;
+	color: #e80a0a; 
+}
+
+div {
+	text-align: center;
+	padding: 40px 10px;
+}
+
+
+
